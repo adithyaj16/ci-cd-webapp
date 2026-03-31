@@ -1,0 +1,10 @@
+{
+  "name": "ci-cd-webapp",
+  "version": "1.0.0",
+  "description": "Simple CI/CD pipeline project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  }
+}
